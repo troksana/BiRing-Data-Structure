@@ -1,5 +1,5 @@
-# Bidirectional Circular Doubly-Linked List (Bi-Ring) in C++
-==============================================================
+## Bidirectional Circular Doubly-Linked List (Bi-Ring) in C++
+
 A custom, low-level implementation of a bidirectional ring (circular doubly-linked list) data structure in native C++. This project demonstrates foundational computer science concepts, explicit pointer manipulation, dynamic memory management, and automated unit testing.
 ==============================================================
 ## Features
